@@ -1,6 +1,6 @@
 <?php
 
-namespace Kola;
+namespace PgsqlReloader;
 
 /**
  * To make reloading even faster:
